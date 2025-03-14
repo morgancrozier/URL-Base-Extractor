@@ -1,0 +1,15 @@
+# URL files
+urls.txt
+base_urls.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/ 
